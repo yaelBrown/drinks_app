@@ -1,0 +1,168 @@
+
+{
+  "Sharkbite": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Meyer's Dark Rum"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Orange Juice"
+      },
+      {
+        "pourOrder": 2,
+        "weight": 0,
+        "alcohol": "Float Grenadine"
+      }
+    ]
+  },
+  "Limon Libre": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Bacardi Limon"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Coke"
+      }
+    ]
+  },
+  "Cuba Libre": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Rum"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Coke"
+      }
+    ]
+  },
+  "Rum & Coke": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Rum"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Coke"
+      }
+    ]
+  },
+  "Bourbon & Coke": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 0,
+        "alcohol": ""
+      }
+    ]
+  },
+  "Scotch & Soda": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Scotch"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Soda"
+      }
+    ]
+  },
+  "7 & 7": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Seagram's 7"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "7-Up"
+      }
+    ]
+  },
+  "Presbyterian": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Whiskey"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 1,
+        "alcohol": "Ginger Ale"
+      },
+      {
+        "pourOrder": 2,
+        "weight": 1,
+        "alcohol": "Soda"
+      }
+    ]
+  },
+  "Whiskey & Water": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Whiskey"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Water"
+      }
+    ]
+  },
+  "Highball": {
+    "type": "Highballs", 
+    "glass": "Rocks",
+    "ingredients": [
+      {
+        "pourOrder": 0,
+        "weight": 1,
+        "alcohol": "Whiskey"
+      },
+      {
+        "pourOrder": 1,
+        "weight": 2,
+        "alcohol": "Ginger Ale"
+      }
+    ]
+  }
+}
